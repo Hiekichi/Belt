@@ -35,4 +35,5 @@ GitHub Copilot with Claude 3.7 Sonnet が一発出ししてくれたコード。
 - [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.Belt.belt)
 
 
-もう bio に「趣味はプログラミングです」と書くことができない冬の時代かも・・・
+もう bio に「趣味はプログラミングです」と書くことができない(冬の?)時代かも・・・
+AIによって「人々はあらゆる苦悩から解放され、楽園のような世界が実現する」でしょう・・・
