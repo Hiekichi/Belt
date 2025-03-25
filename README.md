@@ -32,7 +32,7 @@ GitHub Copilot with Claude 3.7 Sonnet が一発出ししてくれたコード。
 - もう人間には、コードを書く楽しみは残されていないのでしょうか
 
 ## 動作確認はこちらから
-- [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.Kanixian.Kanixian240)
+- [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.Belt.belt)
 
 
 もう bio に「趣味はプログラミングです」と書くことができない冬の時代かも・・・
