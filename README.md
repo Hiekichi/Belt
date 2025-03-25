@@ -9,7 +9,7 @@ GitHub Copilot with Claude 3.7 Sonnet が一発出ししてくれたコード。
 
 ![Animation](https://cdn-ak.f.st-hatena.com/images/fotolife/H/Hiesuke/20250325/20250325112727.gif)
 
-## 遊び方など　（GitHub Copiltチャット画面から）
+## 遊び方など　（GitHub Copilotのチャット画面からそのまんまコピペ）
 
 このプログラムは基本的なベルトスクロールアクションゲームを実装しています。以下のような特徴があります：
 - 右に自動スクロールする背景
