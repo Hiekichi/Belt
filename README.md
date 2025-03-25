@@ -5,9 +5,9 @@ GitHub Copilot with Claude 3.7 Sonnet が一発出ししてくれたコード。
 - GitHub Copilotの使い方を勉強しようとお試しで作ってもらったプログラムコードです。
 - ナニカ問題がありましたら対応させていただきたいと思います。
 
-![スクリーンショット]()
+![スクリーンショット](https://cdn-ak.f.st-hatena.com/images/fotolife/H/Hiesuke/20250325/20250325111226.png)
 
-![Animation]()
+![Animation](https://cdn-ak.f.st-hatena.com/images/fotolife/H/Hiesuke/20250325/20250325112727.gif)
 
 ## 遊び方など　（GitHub Copiltチャット画面から）
 
